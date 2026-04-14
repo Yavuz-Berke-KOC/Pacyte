@@ -1,6 +1,3 @@
-# Pacyte
-Hardware-Meritocratic, Hybrid Post-Quantum Layer-1 Blockchain written in Rust. 45K+ LoC.
-
 📄 Pacyte Nexus (PNX) – Comprehensive Project One-Pager
 
 A Hardware-Meritocratic, Hybrid Post-Quantum Layer-1 Blockchain
