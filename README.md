@@ -88,7 +88,8 @@ Phase Timeline Key Milestones
 
 💰 The Ask
 
-Pacyte Nexus is seeking non-dilutive grant funding in Phase 1 to reach the public testnet milestone. We are actively applying to:
+Pacyte Nexus is seeking non-dilutive grant funding in Phase 1 to reach the public testnet milestone. The institutions we will be applying to are:
+
 
 · Ethereum Foundation (Post-Quantum Grants)
 · 0G Apollo AI Accelerator
