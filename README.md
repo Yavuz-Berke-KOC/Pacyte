@@ -3,7 +3,7 @@
 A Hardware-Meritocratic, Hybrid Post-Quantum Layer-1 Blockchain
 
 Founder & Core Developer: Yavuz Berke Koç
-Email: kocyavuzberke@gmail.com
+Email: pacytenexus@gmail.com
 GitHub: Yavuz-Berke-KOC
 
 ---
