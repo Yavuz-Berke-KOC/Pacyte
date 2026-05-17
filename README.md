@@ -142,3 +142,4 @@ Yavuz Berke Koç
 Founder & Lead Developer
 Pacyte Nexus
 github.com/Yavuz-Berke-KOC
+https://drive.google.com/file/d/1CUVmaI1WmjVVcNQrSrL7bqwwhCminaku/view?usp=drivesdk
