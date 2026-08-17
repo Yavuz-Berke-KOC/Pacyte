@@ -1,0 +1,4 @@
+/target
+# Veritabanı dosyaları (blockchain ledger)
+data/db/
+*.db
